@@ -1,1 +1,14 @@
-# flex-box-atividade-01
+# Atividade 01 - Flexbox
+
+Repositório criado para a realização da **Atividade 01** da disciplina, com foco no uso de **Flexbox** para organização e estilização de layouts em CSS.
+
+## 📂 Conteúdo
+- Exercícios práticos utilizando Flexbox
+- Exemplos de layout responsivo
+- Arquivos de apoio da atividade
+
+## 🚀 Objetivo
+Praticar o uso das propriedades do Flexbox para estruturar e alinhar elementos em diferentes contextos de layout.
+
+## 🔗 Repositório da atividade
+[GitHub - flex-box-atividade-01](https://github.com/SPTech-Atividades-de-PI/flex-box-atividade-01)
